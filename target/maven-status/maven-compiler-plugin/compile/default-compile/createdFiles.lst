@@ -1,0 +1,13 @@
+com\hibicode\beerstore\service\BeerService.class
+com\hibicode\beerstore\service\exception\BusinessException.class
+com\hibicode\beerstore\service\exception\BeerAlreadyExistsException.class
+com\hibicode\beerstore\error\ErrorResponse$ApiError.class
+com\hibicode\beerstore\error\ErrorResponse.class
+com\hibicode\beerstore\BeerstoreApplication.class
+com\hibicode\beerstore\config\ApiErrorConfig.class
+com\hibicode\beerstore\error\GeneralExceptionHandler.class
+com\hibicode\beerstore\repository\BeersRepository.class
+com\hibicode\beerstore\model\Beer.class
+com\hibicode\beerstore\resource\BeerResource.class
+com\hibicode\beerstore\error\ApiExceptionHandler.class
+com\hibicode\beerstore\model\BeerType.class
