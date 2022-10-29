@@ -10,7 +10,6 @@ import org.springframework.stereotype.Service;
 import java.util.Optional;
 
 @Service
-@Component
 public class BeerService {
 
     private BeersRepository beersRepository;
